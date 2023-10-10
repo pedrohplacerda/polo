@@ -1,8 +1,7 @@
 package com.puc.polo.repositories;
 
-import com.puc.polo.model.Produto;
+import com.puc.polo.entity.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
